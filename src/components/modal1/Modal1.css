@@ -1,0 +1,10 @@
+#buttons-modal{
+    padding: 0.5rem;
+    justify-content: last baseline;
+    display: flex;
+
+}
+
+#modal-cart{
+    display: block;
+}

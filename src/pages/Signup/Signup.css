@@ -1,0 +1,5 @@
+.Signup-page{
+    filter: blur(white);
+    background-repeat:round;
+    background-image: url('../../../public/login.jpg');
+}
