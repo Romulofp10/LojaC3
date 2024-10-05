@@ -4,11 +4,6 @@ import { getFirestore } from "firebase/firestore";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
-const _authdomain = import.meta.env.VITE_AUTHDOMAIN
-const _projectid = import.meta.env.VITE_PROJECTID
-const _storagebucket = import.meta.env.VITE_STORAGEBUCKET
-const _messagingsenderid = import.meta.env.VITE_MESSAGINGSENDERID
-const _appid = import.meta.env.VITE_APPID
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
