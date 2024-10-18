@@ -1,6 +1,6 @@
 # Sistema Web - FULLSTACK
 
-## LOJA C3 - ECOMMERCE
+## LOJA C3 - E-COMMERCE
 
 ## Deploy do projeto
 [[DEPLOY]](https://lojadev-c3.web.app/)
@@ -11,7 +11,7 @@
 <div style="display: inline_block">
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" height="50" width="60" src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png">
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" height="50" width="60" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
 </div>
 
 <br>
@@ -24,9 +24,9 @@
 <br>
 
 ## Descrição do projeto
--Projeto foi criado para estudar a estrutura do Reactjs e firebase. A ideia do projeto é ser utilizado tambem como uma landing-page, onde o cliente pode entrar alterar os produtos que ele quer publicar.
+-Projeto foi criado para estudar a estrutura do Reactjs, Taillwdind e firebase. A ideia do projeto é ser utilizado tambem como uma landing-page, onde o cliente pode entrar alterar os produtos que ele quer publicar.
 - Sistema web para compra de produtos/serviços.
-- Criação de post do produto ,exclusão, detalhes e carregamento dos produto e seus pedidos.
+- Criação de post do produto ,exclusão, alterações, detalhes, carregamento dos produto e seus pedidos.
 - Autenticação de usuario, dashboard com somente produtos do usuario.
 - Deploy/hospedagem do projeto-firebase.
 - Utilizado ContextAPI para armazenar informações globais.
