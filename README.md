@@ -24,7 +24,7 @@
 <br>
 
 ## Descrição do projeto
--Projeto foi criado para estudar a estrutura do Reactjs, Taillwdind e firebase. A ideia do projeto é ser utilizado tambem como uma landing-page, onde o cliente pode entrar alterar os produtos que ele quer publicar.
+-Projeto foi criado para estudar a estrutura do Reactjs, Taillwind e firebase. A ideia do projeto é ser utilizado tambem como uma landing-page, onde o cliente pode entrar alterar os produtos que ele quer publicar.
 - Sistema web para compra de produtos/serviços.
 - Criação de post do produto ,exclusão, alterações, detalhes, carregamento dos produto e seus pedidos.
 - Autenticação de usuario, dashboard com somente produtos do usuario.
